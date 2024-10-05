@@ -9,7 +9,7 @@ Understanding your audience’s expertise level is key to tailoring how you pres
 - Use relevant examples: Tailor examples and case studies that resonate with the specific audience's experience or industry.
 - Modify tone and style: A formal tone might work for professionals, while a conversational or casual tone may be better for a general audience.
 - Focus on what matters to them by Highlighting the aspects that directly benefit or interest each group. Experts may want deep insights, while others might care about practical applications.
- - Visual aids: Use diagrams, charts, or visuals to clarify complex ideas for non-expert audiences, while experts may appreciate raw data or detailed visuals.
+- Visual aids: Use diagrams, charts, or visuals to clarify complex ideas for non-expert audiences, while experts may appreciate raw data or detailed visuals.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 1.	Start with basics: Begin with foundational information and gradually increase complexity, adjusting based on their responses.
@@ -30,7 +30,7 @@ Understanding your audience’s expertise level is key to tailoring how you pres
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 - Increases understanding: Plain language ensures that a broader audience, including those with less technical knowledge, can easily understand your message.
 - Avoids confusion: Use plain English instead of jargon, as it can be confusing and may alienate readers who aren’t familiar with the terms, making your content harder to access.
--  Improves engagement: Simple language keeps readers engaged and interested, as they can follow along without getting lost in complicated terms.
+- Improves engagement: Simple language keeps readers engaged and interested, as they can follow along without getting lost in complicated terms.
 - Enhances clarity: Plain language conveys your ideas clearly and directly, reducing the chance of misinterpretation or misunderstanding.
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
@@ -44,8 +44,8 @@ Understanding your audience’s expertise level is key to tailoring how you pres
 - Complex: "You can utilize this tool for your work."
 - Simplified: "You can use this tool for your work."
 4."Show" instead of "demonstrate": Show is direct and eliminates any potential confusion.
--Complex: "We will demonstrate the new features."
--Simplified: "We will show the new features."
+- Complex: "We will demonstrate the new features."
+- Simplified: "We will show the new features."
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 
@@ -90,5 +90,5 @@ Understanding your audience’s expertise level is key to tailoring how you pres
 2. Highlight key features: List the main features in a concise format. For example:
 -Tracks income and expenses
 -Generates monthly reports
- 3.  Focus on user benefits: Explain how these features add value to the user, such as saving time, increasing efficiency, or improving convenience.
+3. Focus on user benefits: Explain how these features add value to the user, such as saving time, increasing efficiency, or improving convenience.
 
