@@ -29,7 +29,7 @@ Understanding your audience’s expertise level is key to tailoring how you pres
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 - Increases understanding: Plain language ensures that a broader audience, including those with less technical knowledge, can easily understand your message.
-- Avoids confusion: Use plain English instead of jargon, as it can be confusing and may alienate readers who aren’t familiar with the terms, making your content harder to access.
+- Avoids confusion: Use plain language instead of jargon, as it can be confusing and may alienate readers who aren’t familiar with the terms, making your content harder to access.
 - Improves engagement: Simple language keeps readers engaged and interested, as they can follow along without getting lost in complicated terms.
 - Enhances clarity: Plain language conveys your ideas clearly and directly, reducing the chance of misinterpretation or misunderstanding.
 
