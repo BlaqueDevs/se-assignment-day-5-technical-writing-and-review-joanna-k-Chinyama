@@ -40,10 +40,10 @@ Understanding your audience’s expertise level is key to tailoring how you pres
 2.  "Help" instead of "facilitate": Help is straightforward, making the sentence clearer and more relatable compared to facilitate.
 - Complex: "We will facilitate the discussion."
 - Simplified: "We will help with the discussion."
-3."Use" instead of "utilize": Use is a basic verb that is easily understood by everyone compared to utilize.
+3. "Use" instead of "utilize": Use is a basic verb that is easily understood by everyone compared to utilize.
 - Complex: "You can utilize this tool for your work."
 - Simplified: "You can use this tool for your work."
-4."Show" instead of "demonstrate": Show is direct and eliminates any potential confusion.
+4. "Show" instead of "demonstrate": Show is direct and eliminates any potential confusion.
 - Complex: "We will demonstrate the new features."
 - Simplified: "We will show the new features."
 
